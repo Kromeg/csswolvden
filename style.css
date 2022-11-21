@@ -1,3 +1,4 @@
-body.theme_default {
-		background: #a2c2f3;
-	}
+body{
+    background-color: grey;
+    /*  may be changed into a solid color using "background-color: COLOR;" instead, or a gradient! (google css gradient for more info) */
+}
